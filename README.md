@@ -4,27 +4,27 @@
 
 Important links when using Gitpod
 
-1. Dahboard can be accessible using
-   url: https://80-<gitpod_genertaed_url>
+1. Dashboard can be accessible using
+   url: https://80-<gitpod_generated_url>
    username: <keycloak_username>
-   password: <keycloak_passowrd>
+   password: <keycloak_password>
    
 2. Ingestion and spec api's can be accessible using following links
-   Ingestion: https://80-<gitpod_genertaed_url>/api/ingestion
-   Spec: https://80-<gitpod_genertaed_url>/api/spec
+   Ingestion: https://80-<gitpod_generated_url>/api/ingestion
+   Spec: https://80-<gitpod_generated_url>/api/spec
    
 4. Minio buckets can be accessed using
-   url: https://9001-<gitpod_genertaed_url>
+   url: https://9001-<gitpod_generated_url>
    username: minioadmin
    password: minioadmin
    
 6. Nifi can be accessible using
-   url: https://8096-<gitpod_genertaed_url>
+   url: https://8096-<gitpod_generated_url>
    
 7. Keycloak can be accessible using
-   url: https://80-<gitpod_genertaed_url>/auth
+   url: https://80-<gitpod_generated_url>/auth
    username: <keycloak_username>
-   password: <keycloak_passowrd>
+   password: <keycloak_password>
 
 
 # cQube_devops Installation
